@@ -1,4 +1,4 @@
-# Strogonoff de Carne 
+# Strogonoff de Carne :cut_of_meat:
 
 ### Ingredientes 
 
